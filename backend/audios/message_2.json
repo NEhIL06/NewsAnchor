@@ -1,0 +1,36 @@
+{
+  "metadata": {
+    "soundFile": "F:\\Desktop\\MiniNews\\backend\\audios\\message_2.wav",
+    "duration": 4.36
+  },
+  "mouthCues": [
+    { "start": 0.00, "end": 0.03, "value": "X" },
+    { "start": 0.03, "end": 0.30, "value": "F" },
+    { "start": 0.30, "end": 0.44, "value": "D" },
+    { "start": 0.44, "end": 0.51, "value": "C" },
+    { "start": 0.51, "end": 0.58, "value": "G" },
+    { "start": 0.58, "end": 0.65, "value": "B" },
+    { "start": 0.65, "end": 0.76, "value": "A" },
+    { "start": 0.76, "end": 0.82, "value": "B" },
+    { "start": 0.82, "end": 0.94, "value": "C" },
+    { "start": 0.94, "end": 1.08, "value": "B" },
+    { "start": 1.08, "end": 1.15, "value": "C" },
+    { "start": 1.15, "end": 1.23, "value": "A" },
+    { "start": 1.23, "end": 1.49, "value": "B" },
+    { "start": 1.49, "end": 1.56, "value": "C" },
+    { "start": 1.56, "end": 1.63, "value": "B" },
+    { "start": 1.63, "end": 1.77, "value": "E" },
+    { "start": 1.77, "end": 1.84, "value": "G" },
+    { "start": 1.84, "end": 2.12, "value": "C" },
+    { "start": 2.12, "end": 2.82, "value": "B" },
+    { "start": 2.82, "end": 2.89, "value": "G" },
+    { "start": 2.89, "end": 2.96, "value": "C" },
+    { "start": 2.96, "end": 3.04, "value": "A" },
+    { "start": 3.04, "end": 3.12, "value": "B" },
+    { "start": 3.12, "end": 3.26, "value": "C" },
+    { "start": 3.26, "end": 3.61, "value": "B" },
+    { "start": 3.61, "end": 3.68, "value": "D" },
+    { "start": 3.68, "end": 4.17, "value": "B" },
+    { "start": 4.17, "end": 4.36, "value": "X" }
+  ]
+}
