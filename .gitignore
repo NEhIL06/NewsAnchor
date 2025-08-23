@@ -4,3 +4,6 @@ frontend/node_modules/
 
 # Environment variables
 backend/.env
+
+# Large files
+backend/Rhubarb.zip

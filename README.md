@@ -1,6 +1,6 @@
-# MiniNews
+# AVANTI Assistant
 
-A modern news application that provides an interactive and engaging way to consume news content.
+An AI assistant that provides leverages AI to help users and elderly people book tickets for travel and bridge the gap between people based on their language
 
 ## 🚀 Features
 
@@ -15,6 +15,7 @@ A modern news application that provides an interactive and engaging way to consu
 
 ### Frontend
 - React.js with Vite
+- Three.js for 3D graphics
 - Tailwind CSS for styling
 - Modern JavaScript (ES6+)
 
@@ -23,6 +24,21 @@ A modern news application that provides an interactive and engaging way to consu
 - Express.js
 - Audio processing capabilities
 - Rhubarb for audio synchronization
+
+## Speech to Text   
+- ElevenLabs API
+
+## Lip Sync 
+- Rhubarb for audio synchronization
+
+## Audio Processing
+- Rhubarb for audio synchronization
+
+
+
+
+
+
 
 ## 📦 Installation
 
@@ -49,7 +65,7 @@ npm start
 
 1. Clone the repository
 ```bash
-git clone https://github.com/yourusername/MiniNews.git
+git clone https://github.com/NEhiL06/NewsAnchor.git
 cd MiniNews
 ```
 
@@ -57,29 +73,11 @@ cd MiniNews
 3. Set up your environment variables (if required)
 4. Start the development servers
 
-## 🤝 Contributing
 
-Contributions are welcome! Please feel free to submit a Pull Request.
-
-1. Fork the project
-2. Create your feature branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
-
-## 📝 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## 👥 Authors
 
 - Nehil Chandrakar - [GitHub](https://github.com/NEhil06)
 
-## 🙏 Acknowledgments
-
-- Thanks to all contributors who have helped shape MiniNews
-- Special thanks to the open-source community
-
----
 
 For more information, please reach out to [chnadrakarnehil.06112002@gmail.com](mailto:chnadrakarnehil.06112002@gmail.com)
